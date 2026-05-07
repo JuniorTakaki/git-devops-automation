@@ -1,0 +1,4 @@
+#ignorar arquivos sensiveis e temporario no docker/app
+src/node_modules
+src/index.js
+src/package.json
